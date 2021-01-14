@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="6doiovtH" text="Возможные чаты: {CHATROOMS}" />
+    <string id="dnKQbXIZ" text="Невозможно пожаловаться на игрока: игра не существует." />
+    <string id="ivKntfNA" text="Соединение уже запрошено, ожидание ответа сервера" />
+    <string id="taPBAd4c" text="Введенная команда должна начинаться с /" />
+    <string id="YOYvBVu1" text="Не найдено чат-комнат, соответствующих {COMMAND}" />
+  </strings>
+</base>

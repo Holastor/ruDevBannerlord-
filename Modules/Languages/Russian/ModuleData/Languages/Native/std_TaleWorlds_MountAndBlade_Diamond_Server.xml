@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="0auJT5XB" text="Недействительный текст." />
+    <string id="0kNoZUjm" text="Чтобы увидеть список турниры клана, вы должны быть в отряде." />
+    <string id="0W4dgUho" text="Вам запрещен вход в игру до {BANNEDUNTIL}, причина: {BANREASON}" />
+    <string id="0XY1VKVB" text="Ваш отряд не может участвовать в клановых турнирах." />
+    <string id="0y5Noakb" text="Вы приняли предложение дружбы" />
+    <string id="1UQf3p3c" text="Фракция клана успешно сменилась." />
+    <string id="29Zi8mbz" text="Игрок состоит в другом клане." />
+    <string id="2addADLo" text="Игрок не найден." />
+    <string id="2HaPlivW" text="{PLAYERNAME} отклонил приглашение в клан." />
+    <string id="2xOyWxIo" text="Игрок не состоит в отряде." />
+    <string id="3EOP6yhO" text="Вас выгоняет с сервера античит-система, причина: {KICKREASON}" />
+    <string id="4lNl8zS2" text="Вы не можете предложить кого-то в отряд в качестве лидера отряда." />
+    <string id="4XDu4Qcd" text="Только лидер отряда может выгнать игроков из отряда." />
+    <string id="541adTbO" text="Вы должны быть в лобби, чтобы уничтожить клан." />
+    <string id="57dvnv3v" text="Игрока выгнали из семьи." />
+    <string id="5f2XMbJp" text="Вы должны находиться в лобби, чтобы выгнать игрока из клана." />
+    <string id="5kgkZo2o" text="Игрока, которого вы хотите выгнать, нет в вашей отряде!" />
+    <string id="6cMSAe2Z" text="Не удалось пожаловаться на игрока. Игрок не найден." />
+    <string id="8O8XqtqZ" text="Чтобы удалить объявления клана, вы должны находиться в лобби." />
+    <string id="91cJB1tP" text="Игрок {INVITEDPLAYER} уже в отряде." />
+    <string id="963x2S0a" text="Друг был удален" />
+    <string id="9uUOpV6r" text="Вы должны находиться в лобби, чтобы добавлять объявления." />
+    <string id="a8AxTVro" text="Вы должны быть лидером семьи, чтобы изменить герб." />
+    <string id="AAnoAhox" text="Не удалось изменить выбранный игровой режим" />
+    <string id="aFQa3pQt" text="Вы должны находиться в лобби, чтобы повысить другого игрока до капитана." />
+    <string id="ah4Pm8wU" text="Вы должны быть в лобби, чтобы распустить свою группу!" />
+    <string id="AIgw3aFG" text="Не возможно встать в очередь на бой, потому что некоторые из игроков заблокированы в матчмейкинге" />
+    <string id="Ajw0d4dW" text="Неверный пароль." />
+    <string id="APQ0kNVj" text="Уникальный идентификатор клана недействителен." />
+    <string id="b72mIrOl" text="Чтобы создать клан, вы должны быть в отряде." />
+    <string id="baHOuMTb" text="Объявление успешно добавлено." />
+    <string id="bcdU2DHW" text="Игрок {INVITEE} приглашен в ваш отряд {INVITER}." />
+    <string id="BDVYCAdP" text="Приглашенного игрока нет в лобби." />
+    <string id="bFwUxUJm" text="Редактировать объявления может только лидер клана." />
+    <string id="bivF3RXY" text="Вы не можете сменить лидера отряда, когда клан находится в процессе создания." />
+    <string id="bMLqfPRv" text="Вы не состоите в клане." />
+    <string id="BwBR7TJB" text="В вашем отряде никого не осталось и он была распущен!" />
+    <string id="BYv1Laa4" text="Вы должны состоять в клане, чтобы добавить объявление. Очевидно." />
+    <string id="ca5nyktO" text="Но ты не в клане." />
+    <string id="caMylVF7" text="Невозможно встать в очередь на битву, потому что не выбраны типы боя." />
+    <string id="cBY4Mymw" text="Вы пожаловались на игрока." />
+    <string id="d4eShU5x" text="{PLAYER} Принял заявку в друзья" />
+    <string id="dabogDDj" text="Вы уже друзья" />
+    <string id="DAhyeheV" text="Вы должны находиться в лобби, чтобы изменить информацию о клане." />
+    <string id="dbLB0tuT" text="Семейное разделение не допускается." />
+    <string id="dDF2wZGu" text="{PLAYER} отклонил ваш запрос о дружбе" />
+    <string id="dHlxVbMw" text="Ты уже в клане." />
+    <string id="Dmz3JLyp" text="Игрок приглашен в клан." />
+    <string id="E2ILp86t" text="Невозможно принять участие в битве, сервер в этом регионе недоступен." />
+    <string id="e9LrrgAH" text="Объявление не существует." />
+    <string id="efpifbtd" text="Вы должны быть в лобби, чтобы кого-то пригласить в отряд!" />
+    <string id="emx7txM9" text="Действие по продвижению участника может быть выполнено только лидером отряда." />
+    <string id="f4iavKkb" text="Вы приглушены до {MUTEDUNTIL}, Причина: {MUTEREASON}" />
+    <string id="fD2SyeA7" text="Вы не можете пригласить себя в отряд." />
+    <string id="fN1SCUwa" text="Кто-то предложил пригласить игрока {SUGGESTEDPLAYER} присоединиться к вашему отряду." />
+    <string id="fZC7pBba" text="Можно рекомендовать только тех игроков, у которых включен античит." />
+    <string id="gPnHnLMe" text="Вы должны находиться в лобби, чтобы пригласить кого-нибудь в клан." />
+    <string id="gXkTPJ8w" text="Игрок {SUGGESTEDPLAYER} уже в отряде." />
+    <string id="GZXVxl3E" text="{PLAYERNAME} отключен. Ваше приглашение в отряд больше не действительно." />
+    <string id="hav7yZyB" text="Текст не введен." />
+    <string id="HKzZOfac" text="Игрок успешно повышен до лидера клана." />
+    <string id="hqK9565f" text="Неверный тип игры." />
+    <string id="hsJt9Iaa" text="Вы должны находиться в лобби, чтобы увидеть список клановых матчей." />
+    <string id="i3sq6BMI" text="Вы должны быть в лобби, чтобы редактировать объявления клана." />
+    <string id="i5ZTTTZw" text="Игрока {INVITEDPLAYER} нет в лобби." />
+    <string id="IBObL770" text="Вы должны быть лидером клана, чтобы выгнать игрока из клана." />
+    <string id="iG72AMy8" text="Информационный текст успешно изменен." />
+    <string id="INecDsvJ" text="Удалять объявления может только лидер клана." />
+    <string id="ismMkXud" text="Вы должны быть лидером клана, чтобы пригласить кого-нибудь в клан." />
+    <string id="jbpKfRl8" text="Чтобы добавить объявление, вы должны быть лидером клана." />
+    <string id="JgdLtL2O" text="Приглашенный игрок уже состоит в клане." />
+    <string id="jl8MYbLR" text="Ваше предложение дружбы было отправлено {PLAYER}." />
+    <string id="jP2hUg7H" text="Вы не в отряде!" />
+    <string id="K0mSh8Hw" text="В вашем отряде недостаточно игроков для создания клана." />
+    <string id="KCtYUaag" text="Вы уже отправили запрос" />
+    <string id="kGkBHfpR" text="Игрок уже приглашен в другой клан." />
+    <string id="KLaW0bOz" text="Чтобы создать клан, вы должны находиться в лобби." />
+    <string id="kTiV7Hzl" text="Вы должны быть в лобби." />
+    <string id="kY2oXMng" text="Не удалось войти." />
+    <string id="l6a9vI9z" text="Только лидер отряда может приглашать других игроков." />
+    <string id="LbUlhYVa" text="Вы должны быть в лобби, чтобы предложить кого-нибудь в отряд." />
+    <string id="LjwYbHFL" text="Вы должны быть лидером клана, чтобы продвигать других членов." />
+    <string id="lVWJRrvx" text="Предварительно созданная игра была отменена {PLAYERNAME}" />
+    <string id="M8x38ZZZ" text="Игрок не в вашем клане." />
+    <string id="mcAG0eHJ" text="Вы должны быть в лобби, чтобы выгнать игрока из своего отряда! [временно]" />
+    <string id="mdH4S8Kx" text="Вы должны быть в отряде, чтобы рекомендовать и приглашать игроков в свой отряд." />
+    <string id="MepGBJMQ" text="Не удалось найти игрока, которого хотите продвигать" />
+    <string id="MgGvnobq" text="Выбранная карта недоступна." />
+    <string id="MowSn4ch" text="Игра не найдена." />
+    <string id="Mp9I9aqd" text="Чтобы изменить информацию о клане, вы должны состоять в клане. Очевидно." />
+    <string id="mvQKpHXH" text="Ваш отряд заполнен." />
+    <string id="n1MdWtck" text="Теперь вы дружите с {PLAYER}" />
+    <string id="nJ7aEkRt" text="Вас пригласил {PLAYERNAME} присоединиться в отряд." />
+    <string id="nlYK3i5a" text="Название клана недействительно." />
+    <string id="nQWwqDmn" text="Вы получили предложение дружбы от {PLAYER}" />
+    <string id="nw7r2S5z" text="Отключенные игровые режимы: {GAMETYPES}." />
+    <string id="nZlu3Moe" text="Покинуть клан" />
+    <string id="OByu0fjQ" text="Невозможно принять участие в битве, не все игроки в вашем отряде готовы." />
+    <string id="oFfMEy1S" text="Предложение дружбы не найдено!" />
+    <string id="olLwOWf8" text="Невозможно встать в очередь на бой, потому что не все игроки включили античит." />
+    <string id="OsRgBZq2" text="Вы должны быть в отряде, чтобы создать клановый турнир." />
+    <string id="P0aRStg4" text="Невозможно принять участие в битве потому что вы заблокированы в матчмейкинге." />
+    <string id="P3JTNI9P" text="Вы не можете повысить себя до лидера клана." />
+    <string id="p5K0ATtZ" text="Не удалось уничтожить старую сессию." />
+    <string id="pehfmZvM" text="Игрок {PLAYERNAME} стал лидером отряда." />
+    <string id="pKNTLYQP" text="Текст не может быть длиннее {MAX_LENGTH} символов." />
+    <string id="Pn13ZKwI" text="Ваш отряд распущен!" />
+    <string id="QHnxKHkV" text="Вы не в отряде." />
+    <string id="qoto9N7y" text="Друг не найден" />
+    <string id="rfaIXasP" text="Клановый герб был успешно изменен." />
+    <string id="rI8gE2Qh" text="Объявление успешно удалено." />
+    <string id="Rj8RhD7F" text="Не удалось" />
+    <string id="rkxTEFGp" text="Игрок не в сети." />
+    <string id="RV60avUq" text="Вы должны быть лидером отряда, чтобы создать клановый турнир." />
+    <string id="S7Y5Suho" text="Вы не можете рекомендовать пригласить себя в отряд." />
+    <string id="sa138Btz" text="Вы должны создать клановый турнир, чтобы отменить ее.." />
+    <string id="SfBU7exM" text="Вы должны быть в клане, чтобы создать клановый турнир." />
+    <string id="SIT1tREw" text="Вы не можете добавить себя в друзья" />
+    <string id="sov81CZ5" text="Ваш Bannerlord ID успешно обновлен" />
+    <string id="SvHP9TXr" text="Не все игроки готовы." />
+    <string id="T96cPmJT" text="Клановых игр не существует." />
+    <string id="Tauk2JzA" text="Версия не совпадает, версия сервера: {SERVERVERSION} - ваша версия: {CLIENTVERSION}." />
+    <string id="TKv0vF7H" text="Вы должны находиться в лобби, чтобы изменить клановый герб." />
+    <string id="TpBDiSBp" text="Игроку {PLAYERNAME} назначен лидер отряда." />
+    <string id="TPCm8PRy" text="Вы не лидер отряда." />
+    <string id="TqVsDCe3" text="Чтобы сменить фракцию, вы должны быть лидером клана." />
+    <string id="ujLHwcn8" text="Игрока {SUGGESTEDPLAYER} нет в лобби." />
+    <string id="UMNzrvvJ" text="Вы блокируетесь в матчмейкинге на {PUNISHMENTDURATION} секунд." />
+    <string id="uqqqWl6f" text="Отряд не имеет права участвовать в клановом турнире." />
+    <string id="VaWafSkY" text="Вы должны находиться в лобби, чтобы создать клановую турнир." />
+    <string id="VDDm5bqb" text="Вы можете приглашать только тех игроков, у которых включен античит." />
+    <string id="voOrIr0b" text="{PLAYERNAME} принял приглашение в клан." />
+    <string id="vVAzWAGc" text="Вы должны быть лидером клана, чтобы распустить клан." />
+    <string id="w8WiqZT3" text="Вы должны включить античит, чтобы присоединиться или создать отряд!" />
+    <string id="wNubP2BF" text="Только лидер отряда может стоять в очереди на турниры." />
+    <string id="WppypzjS" text="Чтобы сменить фракцию клана, вы должны находиться в лобби." />
+    <string id="Xb6TEi3o" text="Вы отклонили запрос о дружбе" />
+    <string id="XgQQPZsn" text="Вы не можете пригласить себя." />
+    <string id="xHqjCamt" text="Невозможно пожаловаться на игрока, игра не найдена." />
+    <string id="xMa4QqvL" text="Текущие игроки в отряде: {PLAYERS}" />
+    <string id="y0dKQ8pL" text="Объявление успешно изменено." />
+    <string id="YF0irfDl" text="Игрок не найден" />
+    <string id="YGfHWmNS" text="Не удалось изменить регион" />
+    <string id="yQyozBBX" text="Ваш отряд не имеет права создавать клановые турниры." />
+    <string id="ysfEQO6c" text="Игрок не найден" />
+    <string id="ywVYMhiF" text="Вы должны быть лидером клана, чтобы изменить информации о клане." />
+    <string id="z40g0BmW" text="Не удалось обновить Bannerlord ID" />
+    <string id="ZtktMXDw" text="Вы не состоите в клане." />
+    <string id="zyDyPr4I" text="Игрок, которого вы хотите повысить, не входит в ваш отряд." />
+  </strings>
+</base>
