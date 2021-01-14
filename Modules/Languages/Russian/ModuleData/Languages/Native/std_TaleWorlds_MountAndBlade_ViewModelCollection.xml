@@ -69,7 +69,7 @@
 <string id="BSUteZmt" text="Принять запрос в друзья"/>
 <string id="bynNUfSr" text="В вашем отряде недостаточно участников для создания клана."/>
 <string id="c0ZdKSkn" text="Ожидание"/>
-<string id="C7OHivNl" text="Ваш друг <a style="Strong"><b>{PLAYER_NAME}</b></a> хочет, чтобы вы пригласили этого игрока."/>
+<string id="C7OHivNl" text="Ваш друг &lt;a style=&quot;Strong&quot;&gt;&lt;b&gt;{PLAYER_NAME}&lt;/b&gt;&lt;/a&gt; хочет, чтобы вы пригласили этого игрока."/>
 <string id="cDzWYQrz" text="Сбросить на настройки по умолчанию?"/>
 <string id="chfTxqZg" text="Неверная команда."/>
 <string id="cK5DE88I" text="Н/Д"/>
