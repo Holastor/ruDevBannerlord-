@@ -153,5 +153,6 @@
     <string id="z40g0BmW" text="Не удалось обновить Bannerlord ID" />
     <string id="ZtktMXDw" text="Вы не состоите в клане." />
     <string id="zyDyPr4I" text="Игрок, которого вы хотите повысить, не входит в ваш отряд." />
+    <string id="X6N9nSn0" text="You are not allowed to login into this server. Please try official public servers."/>
   </strings>
 </base>
