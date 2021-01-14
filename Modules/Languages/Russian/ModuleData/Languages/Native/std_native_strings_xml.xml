@@ -370,7 +370,7 @@
 <string id="xILeUbY3" text="Панель администратора"/>
 <string id="Xj2FCkQl" text="Пользоватеьский список серверов"/>
 <string id="xoXWGYVI" text="· Используйте различные осадные машины, чтобы атаковать или защищать контрольные точки.{newline}· количество точек спавна увеличивается по мере захвата контрольных точек{newline}· Успешно атакуйте и удерживайте флаг крепости или отбейте врага, чтобы победить"/>
-<string id="xq9Vxpyc" text="<a style="HeadshotTitle.Text" ><b>{TITLE}</b></a>"/>
+<string id="xq9Vxpyc" text="&lt;a style=&quot;HeadshotTitle.Text&quot; &gt;&lt;b&gt;{TITLE}&lt;/b&gt;&lt;/a&gt;"/>
 <string id="XQndveFG" text="Урон по союзникам в ближнем бою"/>
 <string id="XUKRrgOr" text="Нанесено {DAMAGE} {DAMAGE_TYPE} урона лошади."/>
 <string id="xuo8gmaL" text="· Используйте золото для возрождения{newline}· Зарабатывайте золото, убивая врагов и помогая товарищам по команде{newline}· Убейте вражескую команду, чтобы выиграть игру"/>
