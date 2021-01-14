@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Русский" />
+    <tag language="English" />
   </tags>
   <strings>
     <string id="03vNcoOt" text="Dhila" />
     <string id="0AuMcOga" text="Rolan" />
-    <string id="0CQgia2a" text="Кульхарн" />
-    <string id="0YZQ8vr8" text="Ульман" />
-    <string id="10urvYUQ" text="Белитор" />
+    <string id="0CQgia2a" text="Culharn" />
+    <string id="0YZQ8vr8" text="Ulman" />
+    <string id="10urvYUQ" text="Belithor" />
     <string id="13YN3S79" text="Razana" />
-    <string id="1cKxsHSh" text="Пентон" />
+    <string id="1cKxsHSh" text="Penton" />
     <string id="1yJZWqhG" text="Pradentia" />
-    <string id="26W8jFm9" text="Сеханис" />
+    <string id="26W8jFm9" text="Zachanis" />
     <string id="27fMB4Ri" text="Agnala" />
     <string id="2Bh8DS8S" text="Siga" />
     <string id="2fYYfHUI" text="Martira" />
@@ -21,6 +21,7 @@
     <string id="2RGc09o0" text="Alijin" />
     <string id="2T4CbYRn" text="Germana" />
     <string id="2V8NE0Vn" text="Sea Raiders Hero" />
+    <string id="2XKnC45z" text="Porphalios" />
     <string id="36Y88cTv" text="Megenhelda" />
     <string id="3a8sskoz" text="Khorijin" />
     <string id="3AMc9o0o" text="Solun" />
@@ -108,7 +109,7 @@
     <string id="cjuYkvlX" text="Panalea" />
     <string id="cL1lO5iP" text="Ergeon" />
     <string id="CLqPbdiZ" text="Lucon" />
-    <string id="codK1ezX" text="Eleduris" />
+    <string id="codK1ezX" text="Eleduran" />
     <string id="cqu8MATS" text="Esachei" />
     <string id="CS4unEGi" text="Beathag" />
     <string id="CuH8aalQ" text="Valla" />
@@ -158,6 +159,7 @@
     <string id="GFmOwx4L" text="Idrun" />
     <string id="GFV7bzME" text="Icratia" />
     <string id="Ggj9PWIU" text="Minarvina" />
+    <string id="GJhRw7qb" text="Aesos" />
     <string id="GK1k9K4j" text="Furnhard" />
     <string id="gnGxp46c" text="Wythuin" />
     <string id="gQ1JZ8ow" text="Ukhai" />
@@ -240,6 +242,7 @@
     <string id="lGrQRXKt" text="Vasilia" />
     <string id="LiAefNmE" text="Thephilos" />
     <string id="LJ6Intaq" text="Usair" />
+    <string id="lLNkm48w" text="Vamina" />
     <string id="LQYkBOsU" text="Maurentios" />
     <string id="lRjHdd5l" text="Qaban" />
     <string id="LwbqCwne" text="Ospir" />
