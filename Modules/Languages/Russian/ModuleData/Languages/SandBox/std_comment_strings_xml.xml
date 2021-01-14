@@ -45,7 +45,7 @@
     <string id="A40Z3egp" text="That job you did for me... Nice work." />
     <string id="a55SAS18" text="We have the advantage of you. Yield, and you will be well-treated.[ib:warrior][if:idle_angry]" />
     <string id="a5LChqbr" text="The common folk of these lands need someone looking after them. That's where our Brotherhood comes in. You'll hear us called bandits or robbers. Don't believe a word of it." />
-    <string id="a8584KD0" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. I am sure you have heard the name of our clan in the epics of the steppe. We carry the name of one the ten sons of the great she-wolf, mother of the Khuzaits." />
+    <string id="a8584KD0" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. I am sure you have heard the name of our clan in the epics of the steppe. We carry the name of one the 12 sons of the great she-wolf, mother of the Khuzaits." />
     <string id="aaadHoIb" text="May {?GENDER}she{?}he{\?} crush all {?GENDER}her{?}his{\?} foes!" />
     <string id="aagGt8pX" text="Your lordship" />
     <string id="aFbkjgVe" text="So, you weren't able to complete that task... Well, sometimes these things are out of our hands... and sometimes not. But let us not dwell on this." />
@@ -66,7 +66,7 @@
     <string id="BRMngn5i" text="Enough! I am your prisoner. I can pay a ransom. I am worth more to you alive than dead.[rf:angry][rb:trivial]" />
     <string id="C5JaFsDZ" text="{FIRST_NAME} is my liege. That's all there is to say." />
     <string id="c7hrnOUE" text="I guess that task I gave you didn't work out." />
-    <string id="caKCwoPM" text="The Bani Zilal are the keepers of the secret. We watch from the shadows. Make foes of us at your peril." />
+    <string id="caKCwoPM" text="The Beni Zilal are the keepers of the secret. We watch from the shadows. Make foes of us at your peril." />
     <string id="captainasleader" text="Captain" />
     <string id="cFiSjbf4" text="Hah! I want to fight with you" />
     <string id="cGuzIVlk" text="They say you have travelled quite widely. Tell me a bit about your journeys..." />
